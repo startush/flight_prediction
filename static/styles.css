@@ -3,9 +3,12 @@ body {
     text-align: center;
 }
 
+/* Nav bar */
 .navbar {
     background-color: #333333;
 }
+
+/*  */
 
 a {
     color: #f1f9f9;
